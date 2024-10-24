@@ -3,7 +3,7 @@
 
 module Testbench;
 
-	parameter CLOCK_PERIOD = 20;
+	parameter CLOCK_PERIOD = 10;
 	parameter ITERATION_SIZE = 5;
 
 	// Inputs
